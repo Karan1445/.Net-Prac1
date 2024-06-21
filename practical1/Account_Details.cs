@@ -28,7 +28,7 @@ namespace practical1
         }
 
         public void Calculate()
-        { Console.WriteLine("=========Intrest========");
+        { Console.WriteLine("=========Intrest=============");
             Console.WriteLine("Hello,......"+Name);
             Console.WriteLine("Interest rate is: " +((balance*time*rate)/100));
         }
